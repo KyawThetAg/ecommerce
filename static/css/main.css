@@ -1,0 +1,34 @@
+.bg-dark{
+    background-color: #4f868c !important;
+}
+#cart-icon{
+    width: 25px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.cart-row{
+    display: flex;
+    align-items: stretch;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #0c0c0c;
+}
+.row-img{
+    width: 100px;
+}
+.quantity{
+    display: inline-block;
+    font-weight: 700;
+    padding-right: 10px;
+}
+.chg-quantity{
+    width: 12px;
+    cursor: pointer;
+    display: block;
+    padding-top: 4px;
+}
+.form-field{
+    width: 245px;
+    display: inline-block;
+    padding: 5px;
+}
